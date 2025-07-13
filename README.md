@@ -17,7 +17,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Personal Information
 
 - Mmakgadi Bonolo Letsela
-- 7 July 2025
+- 13 July 2025
 - Software Development student @ Codespace Academy
 - Full-stack web development
 
@@ -59,31 +59,37 @@ By completing this reflection, you will gain a clearer understanding of your car
    
 3. **Long-term Goals** (3-5 years and beyond):
     
-    - 
-    - Describe how these align with your interests and skills.
+    - Move into leadership role in the workplace. Whether team or project leader.
+    - Develop software that empowers young women.
+    - Keep educating myself and gaining certificates.
+    - These goals align with my skills and those I hope to harness as time goes. They are an opportunity for me to prove my leadership and teamwork skills and thus enhance my strategic-thinking and adaptability skills. 
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Study and pass my modules. Seek help when I struggle. Manage my time effectively and complete my courses.
+    - Apply for jobs and prepare for interviews. Work on my CV and seek feedback. 
+    - Look for opportunities to volunteer in the tech world where young women are centered. Do research and find out how to get involved. 
+    - Take advantage of access to the codespace alumni network. Use LinkedIn and other networks.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Volunteer to be team leader and be open to learning.
+    - Research what areas young women can be assisted in using technology.
+    - Work on improving myself in all aspects. 
+    - Advance qualifications will be needed to progress in my career. 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Financial constaints might hinder furthering my education.
+    - The high rate of unemployment might affect my chances of being hired.
+    - I could work on improving my autodidactism so I do not have to rely on traditional methods to further my education. I could expand my network and even look to find jobs that are based in other countries. 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
+   -Seek guidance from women that have been in the industry for longer than I.
+   
 ### Submission
 
 - To complete this submission you will need to use this template and complete Parts 1 to 5.

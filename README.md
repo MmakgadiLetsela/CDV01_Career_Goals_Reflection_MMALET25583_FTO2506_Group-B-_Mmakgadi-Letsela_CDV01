@@ -16,31 +16,34 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- Mmakgadi Bonolo Letsela
+- 7 July 2025
+- Software Development student @ Codespace Academy
+- Full-stack web development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - HTML, time Management, teamwork, leadership are skills I am confident in.
+    - CSS, adabtability, strategic-thinking and decision making are skills I would like to improve.
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Honesty, integrity and mutual respect are values I beleive are important in the workplace to ensure that everything runs smoothly and the culture is equitable for all. 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Cybersecurity
+    - Robotics
+    - Financial Market
+    - Web Development
+    - I am quite interested in a career in web development in the financial market. I started an accounting degree at UJ and gained a love for numbers and all they intail. Combining the two industries would be my ideal job at least for now while I explore more options. 
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
+    - I tend to be more logic-oriented but I always aim to explore my creativity in all I do. Accounting is a very rigid industry whereas tech is ever-changing and growing. I love ordered chaos so I believe that is the perfect direction for my career to take
     - Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals

@@ -88,7 +88,10 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I could work on improving my autodidactism so I do not have to rely on traditional methods to further my education. I could expand my network and even look to find jobs that are based in other countries. 
 2. **Opportunities for Growth**:
     
-   -Seek guidance from women that have been in the industry for longer than I.
+    - Seek guidance from women that have been in the industry for longer than I.
+    - Volunteer where i can to gain real-world experience.
+    - Apply for mentorships where possible and learn as much as I can
+   
    
 ### Submission
 
